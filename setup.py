@@ -29,7 +29,7 @@ setup(
         "packaging==20.4",
         "pyparsing==2.4.7",
         "python-dateutil==2.8.1",
-        "requests==2.24.0",
+        "requests==2.32.3",
         "six==1.16.0",
         "urllib3==1.25.10"
     ],
