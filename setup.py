@@ -26,7 +26,7 @@ setup(
         "certifi==2024.07.04",
         "chardet==3.0.4",
         "idna==3.7",
-        "packaging==20.4",
+        "packaging==20.9",
         "pyparsing==2.4.7",
         "python-dateutil==2.9.0.post0",
         "requests==2.32.3",
