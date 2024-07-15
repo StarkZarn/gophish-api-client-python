@@ -25,7 +25,7 @@ setup(
         "appdirs==1.4.4",
         "certifi==2024.07.04",
         "chardet==3.0.4",
-        "idna==2.10",
+        "idna==3.7",
         "packaging==20.4",
         "pyparsing==2.4.7",
         "python-dateutil==2.9.0.post0",
